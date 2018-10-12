@@ -1,7 +1,7 @@
 What we are planning to do :
 	Prediction of Disasters using Fractal System
   
-What are Fractals
+What are Fractals :
 	Fractals are numeric values which are used to predict natural disaster based on some factors.More the value more likely a disaster can happen.
 Every disaster has unique way of calculating fractal values depending on the factors on which the disaster is depending. 
 
